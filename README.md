@@ -1,43 +1,45 @@
-# Hey, I'm Vaishnav  👋
+# 👋 Hey, I'm Vaishnav 
 
-Thanks for stopping by my GitHub. I'm a developer from India who enjoys building useful, random, and sometimes weird stuff on the internet. I mostly work with Telegram bots, web tools, automation projects, and a bit of Android too.
+I’m not a pro coder — I just love creating things that work.
 
----
-
-## 🚀 What I'm into:
-
-- Building **Telegram bots** (random chat bots, media tools, group manager bots, etc.)
-- Making simple **websites** and dashboards using HTML, CSS, and JavaScript
-- Playing with **APIs** to connect things together (like Spotify, Pinterest, or FreeImage host)
-- Making lightweight **Android apps** using AIDE
-- Trying out new ideas and learning as I go
+Most of my projects are built using AI tools, platforms like Bots.Business, GitHub, Replit, and Render. I mix tools, test ideas, and build bots, sites, and apps that do something useful (or just fun). You don’t need to be a coder to build cool things — you just need to start.
 
 ---
 
-## 🧩 Current Projects
+## 🛠️ What I Do (Without Coding Everything)
 
-- A full-featured Telegram random chat bot (with profile, tags, gender filter, coins, reports, etc.)
-- Group assistant bot with full admin tools and filters
-- Image to URL bot using FreeImage.Host
-- Spotify music search + download bot
-- Web UI with live update system using GitHub + Render
+- Create **Telegram bots** using platforms and AI (random chat bots, group tools, media downloaders, etc.)
+- Build simple **websites** with copy-paste code and small tweaks
+- Use **APIs** smartly — I don’t code them from scratch, but I know how to use them
+- Build small **Android apps** using AIDE, mostly for fun experiments
+- Use **ChatGPT and online tools** to help me build and learn
 
 ---
 
-## 🌍 Online Links
+## 🔧 Current Projects
+
+- Telegram random chat bot with age/gender/tags and coins
+- Spotify music downloader bot with preview + download options
+- Pinterest image search bot
+- Group manager bot with full admin tools
+- Code-sharing website with auto-refresh feature
+
+---
+
+## 🌐 Find Me Online
 
 - Website: [vaish-business-site.vercel.app](https://vaish-business-site.vercel.app)
 - Telegram: [@ysh_zap](https://t.me/ysh_zap)
 
 ---
 
-## A few random things about me:
+## 📌 My Style
 
-- I enjoy fixing bugs more than writing new code.
-- I like building things people actually use, even if they’re small.
-- I test everything 100 times before I trust it.
-- I believe simple > complex.
+- I don’t write much code — I build using ideas and tools that work together
+- I test things until they work how I want
+- I don’t care about being perfect — just real, fast, and functional
+- If I don’t know something, I figure it out
 
 ---
 
-Thanks for reading. If you're curious about any project or want to connect, feel free to reach out on Telegram.
+Thanks for visiting my profile! If you build things with tools (not just code), we’ve got something in common.
