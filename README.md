@@ -1,47 +1,60 @@
-# 👋 Hey, I'm Vaishnav 
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 12px; font-family: sans-serif;">
 
-<img src="file/20250720_202341.png" width="250" alt="Vaishnav Vishnu photo" style="border-radius: 12px; margin-bottom: 10px;"/>
+<h1>👋 Hey, I'm Vaishnav</h1>
 
-I’m not a pro coder — I just love creating things that work.
+<img src="file/20250720_202341.png" width="200" alt="Vaishnav Vishnu" style="border-radius: 12px; margin: 15px 0;" />
 
-Most of my projects are built using AI tools, platforms like Bots.Business, GitHub, Replit, and Render. I mix tools, test ideas, and build bots, sites, and apps that do something useful (or just fun). You don’t need to be a coder to build cool things — you just need to start.
+<p>I’m not a pro coder — I just love creating things that work.</p>
 
----
-
-## 🛠️ What I Do (Without Coding Everything)
-
-- Create **Telegram bots** using platforms and AI (random chat bots, group tools, media downloaders, etc.)
-- Build simple **websites** with copy-paste code and small tweaks
-- Use **APIs** smartly — I don’t code them from scratch, but I know how to use them
-- Build small **Android apps** using AIDE, mostly for fun experiments
-- Use **ChatGPT and online tools** to help me build and learn
+<p>Most of my projects are built using AI tools, platforms like Bots.Business, GitHub, Replit, and Render. I mix tools, test ideas, and build bots, sites, and apps that do something useful (or just fun). You don’t need to be a coder to build cool things — you just need to start.</p>
 
 ---
 
-## 🔧 Current Projects
+<h2>🛠️ What I Do (Without Coding Everything)</h2>
 
-- Telegram random chat bot with age/gender/tags and coins  
-- Spotify music downloader bot with preview + download options  
-- Pinterest image search bot  
-- Group manager bot with full admin tools  
-- Code-sharing website with auto-refresh feature  
-
----
-
-## 🌐 Find Me Online
-
-- Website: [vaish-business-site.vercel.app](https://vaish-business-site.vercel.app)  
-- Telegram: [@ysh_zap](https://t.me/ysh_zap)  
+<ul>
+  <li>Create <strong>Telegram bots</strong> (random chat, group tools, downloaders)</li>
+  <li>Build basic <strong>websites</strong> with copy-paste code</li>
+  <li>Use <strong>APIs</strong> smartly (Pinterest, Spotify, FreeImage, etc.)</li>
+  <li>Make simple <strong>Android apps</strong> with AIDE</li>
+  <li>Work with <strong>AI tools</strong> to help me build and improve</li>
+</ul>
 
 ---
 
-## 📌 My Style
+<h2>🔧 Current Projects</h2>
 
-- I don’t write much code — I build using ideas and tools that work together  
-- I test things until they work how I want  
-- I don’t care about being perfect — just real, fast, and functional  
-- If I don’t know something, I figure it out  
+<ul>
+  <li>Telegram random chat bot (gender, age, tags, coins)</li>
+  <li>Spotify music downloader bot with preview & download</li>
+  <li>Pinterest image search bot</li>
+  <li>Group manager bot with admin tools</li>
+  <li>Website with code-sharing and live refresh</li>
+</ul>
 
 ---
 
-Thanks for visiting my profile! If you build things with tools (not just code), we’ve got something in common.
+<h2>🌐 Find Me Online</h2>
+
+<ul>
+  <li>🌎 Website: <a href="https://vaish-business-site.vercel.app" style="color: #0ff;">vaish-business-site.vercel.app</a></li>
+  <li>📬 Telegram: <a href="https://t.me/ysh_zap" style="color: #0ff;">@ysh_zap</a></li>
+</ul>
+
+---
+
+<h2>📌 My Style</h2>
+
+<ul>
+  <li>I don’t write much code — I just figure things out</li>
+  <li>I test a lot before trusting anything</li>
+  <li>I care more about results than perfection</li>
+  <li>If something's broken, I fix it</li>
+</ul>
+
+---
+
+<p>Thanks for visiting my profile! If you build things with tools (not just code), we’re already alike.</p>
+
+</div>
+p
