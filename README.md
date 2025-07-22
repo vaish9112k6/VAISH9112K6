@@ -19,11 +19,11 @@ You don’t need to be a coder to build cool things — you just need to start.
 
 <hr style="border-color: #333;" />
 
-<h2 style="color: #00ffff;">🛠️ What I Do (Without Coding Everything)</h2>
+<h2 style="color: #00ffff;">👀 What I Do</h2>
 
 <ul style="font-size: 15px; line-height: 1.6;">
   <li>Create <strong>Telegram bots</strong> (random chat, group tools, downloaders)</li>
-  <li>Build basic <strong>websites</strong> with copy-paste code</li>
+  <li>Build basic <strong>websites</strong> using Ai's</li>
   <li>Use <strong>APIs</strong> smartly (Pinterest, Spotify, FreeImage, etc.)</li>
   <li>Make simple <strong>Android apps</strong> with AIDE</li>
   <li>Work with <strong>AI tools</strong> to help me build and improve</li>
@@ -31,11 +31,11 @@ You don’t need to be a coder to build cool things — you just need to start.
 
 <hr style="border-color: #333;" />
 
-<h2 style="color: #00ffff;">🌐 Find Me Online</h2>
+<h2 style="color: #00ffff;">☄️Find Me Online</h2>
 
 <ul style="font-size: 15px; line-height: 1.6;">
-  <li>🌎 Website: <a href="https://vaish-business-site.vercel.app" style="color: #00ffff;">vaish-business-site.vercel.app</a></li>
-  <li>📬 Telegram: <a href="https://t.me/ysh_zap" style="color: #00ffff;">@ysh_zap</a></li>
+  <li>🕯️ Website: <a href="https://vaish-business-site.vercel.app" style="color: #00ffff;">vaish-business-site.vercel.app</a></li>
+  <li>🕯️ Telegram: <a href="https://t.me/ysh_zap" style="color: #00ffff;">@ysh_zap</a></li>
 </ul>
 
 <hr style="border-color: #333;" />
