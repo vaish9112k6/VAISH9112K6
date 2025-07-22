@@ -1,8 +1,8 @@
 <!-- README.md -->
 
-<div style="background-color: #000000; color: #ffffff; padding: 20px; border-radius: 12px; font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;">
+<div style="background-color: #000000; color: #ffffff; padding: 20px; border-radius: 12px; font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;">
 
-<h1 style="font-weight: bold;">👋 Hey, I'm Vaishnav Vishnu</h1>
+<h1>👋 Hey, I'm Vaishnav Vishnu</h1>
 
 <img src="file/20250720_202341.png" width="200" alt="Vaishnav Vishnu" style="border-radius: 12px; margin: 15px 0;" />
 
