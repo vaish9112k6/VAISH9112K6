@@ -1,4 +1,4 @@
-<!-- README.md -->
+
 
 <div style="background-color: #000000; color: #ffffff; padding: 20px; border-radius: 12px; font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;">
 
@@ -40,10 +40,10 @@ You don’t need to be a coder to build cool things — you just need to start.
 
 <hr style="border-color: #333;" />
 
-<h2 style="color: #00ffff;">📌 My Style</h2>
+<h2 style="color: #00ffff;">Me🪬</h2>
 
 <ul style="font-size: 15px; line-height: 1.6;">
-  <li>I don’t write much code — I just figure things out</li>
+  <li>I don’t write much code, I just figure things out</li>
   <li>I test a lot before trusting anything</li>
   <li>I care more about results than perfection</li>
   <li>If something's broken, I fix it</li>
